@@ -1,4 +1,4 @@
-### Hi there 👋
+### Keep learning 📕
 
 <!--
 **Talaxy009/Talaxy009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://github-readme-stats.vercel.app/api?show_icons=true&count_private=true&username=Talaxy009)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=Talaxy009)
